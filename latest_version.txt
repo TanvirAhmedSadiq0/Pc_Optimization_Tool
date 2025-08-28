@@ -1,4 +1,1 @@
-1.0.2|https://github.com/TanvirAhmedSadiq0/Pc_Optimization_Tool/releases/download/version%3D1.0.2/P_C_Optimizerr_1.0.2.exe
-
-
-
+1.0.3|https://github.com/TanvirAhmedSadiq0/Pc_Optimization_Tool/releases/download/version%3D1.0.3/PC_Optimizerr_1.0.3.exe
